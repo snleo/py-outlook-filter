@@ -1,0 +1,5 @@
+# default
+keywords_file : "words-deault.txt"
+outlook_account : "MAILBOX NAME"
+outlook_inbox : "Inbox"
+outlook_junk : "Junk E-Mail"
