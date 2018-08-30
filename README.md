@@ -1,5 +1,5 @@
 # py-outlook-filter
-Outlook junk email filter using Python
+Outlook junk email filter using Python 3
 
 ## Packages required
 - pywin32
@@ -23,6 +23,7 @@ outlook_account : "Website"
 outlook_inbox : "Inbox"
 outlook_junk : "Junk E-Mail"
 ```
+>Note: you will need to modify `outlook.py` to use the correct settings file.
 
 ## Keyword file
 If Subject or Body of a message contains any word in the spcified keyword file it will be moved to specified Outlook folder.
